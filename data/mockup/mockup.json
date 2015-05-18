@@ -1,0 +1,302 @@
+[
+  {
+    "ID":1,
+    "name":"Bhimsen Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":2,
+    "name":"Tebahal stupa",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":3,
+    "name":"Ganesh temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":4,
+    "name":"lukmadyo",
+    "religion":"Hindu",
+    "District":"Lalitpur"
+  },
+  {
+    "ID":5,
+    "name":"Jyatha ganesh dyo chhen",
+    "religion":"Hindu",
+    "District":"Bhaktapur"
+  },
+  {
+    "ID":6,
+    "name":"Saraswoti temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":7,
+    "name":"Maitidevi temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":8,
+    "name":"Benchen Phuntsok Dargyeling Dyang monastery",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":9,
+    "name":"Katu Baha",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":10,
+    "name":"Dhandau Chaitya",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":11,
+    "name":"Shree Tamreshwor Mahadev Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":12,
+    "name":"Gupteshwor Mahadev Cave",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":13,
+    "name":"Yangle Sho Cave",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":14,
+    "name":"Asura Cave",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":15,
+    "name":"Vajrayogini Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":16,
+    "name":"Dhakshakali",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":17,
+    "name":"Pangboche Gompa",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":18,
+    "name":"Ashok Stupa",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":19,
+    "name":"Jaisidega:",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":20,
+    "name":"Chandeswori",
+    "religion":"Hindu",
+    "District":"Lalitpur"
+  },
+  {
+    "ID":21,
+    "name":"Pim Bahal Pokhari",
+    "religion":"Hindu",
+    "District":"Lalitpur"
+  },
+  {
+    "ID":22,
+    "name":"Amla posha",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":23,
+    "name":"bishnudevi",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":24,
+    "name":"Vhandahreshwor Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":25,
+    "name":"Pancha Dewalayas",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":26,
+    "name":"Raj Rajeshwori Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":27,
+    "name":"Surya Ghat",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":28,
+    "name":"Shree Kotilingeshwor and 64 shivalingas",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":29,
+    "name":"Sankha Narayan Sattal",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":30,
+    "name":"Tindara Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":31,
+    "name":"Mahalaxmi Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":32,
+    "name":"Ramabhar Stupa",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":33,
+    "name":"Tibetian Budist Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":34,
+    "name":"Matha-Kuar Shrine",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":35,
+    "name":"Mahadev Than",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":36,
+    "name":"Bimsen Sthan",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":37,
+    "name":"Kalika Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":38,
+    "name":"Jitapur",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":39,
+    "name":"Shree Kali",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":40,
+    "name":"Bishwo Rupa Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":41,
+    "name":"Shivalayas",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":42,
+    "name":"Gorakhnath Sattal and Narahari Pathshala",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":43,
+    "name":"Gorakhnath Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":44,
+    "name":"Guheswori Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":45,
+    "name":"Kirateshwor Mahadev Mandir",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":46,
+    "name":"Bhimsen Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":47,
+    "name":"Maiti Devi Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":48,
+    "name":"Swa Chapu Ganesh",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":49,
+    "name":"Indraini Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  },
+  {
+    "ID":50,
+    "name":"Kalanki Temple",
+    "religion":"Hindu",
+    "District":"Kathmandu"
+  }
+]
