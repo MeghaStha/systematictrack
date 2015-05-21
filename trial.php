@@ -9,11 +9,27 @@ echo "<br/>";
 $osm = file_get_contents("data/osm_data/json/export.json");
 $json_osm = json_decode($osm, true);
 //print_r($json_osm);
+$merge = array_merge($json_osm, $json_mockup);
 echo "<br/>";
-foreach ($json_ona as $key=>$value){
+$a=($merge['elements']);
 
+//print_r($merge);
+$a=($merge['elements']);
+foreach ($merge as $key => $value){
+foreach ($value as $k => $v){
+if ($k === 'name'){
+$mb[]= $value['name'];
+$mr[] = $value['religion'];
+$mt[] = $value['tolename'];
+}
+}
+}
+print_r($mt);
+
+foreach ($json_ona as $key=>$value){
+//print_r($value);
 $ona_name[] = $value[temple_name];
 
 }
-print_r($ona_name);
 ?>
+
